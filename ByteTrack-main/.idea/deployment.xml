@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="root@192.168.88.21:22">
+    <serverData>
+      <paths name="hua_wei">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/disk3/pl/ByteTrack-main" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@192.168.88.21:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/miniconda3/envs/pl" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
